@@ -1,0 +1,25 @@
+body {
+    margin: 0px;
+}
+
+.navbar {
+    background-color: #5354f4;
+    overflow: hidden;
+}
+
+/*Navigation bar links*/
+.navbar a {
+  display: block;
+  padding: 20px 25px;
+  text-align: center;
+  text-decoration: none;
+  float: left;
+  color: white;
+}
+
+/*Hovering over navigation bar*/
+.navbar a:hover {
+  background-color: #faf800;
+  color: black;
+}
+
