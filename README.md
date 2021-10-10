@@ -1,6 +1,6 @@
-#  Intro To CS Spring 2021 Semester - HTML CSS Practical Lesson
+# Intro To CS Fall 2021 Semester - HTML CSS Practical Lesson
 
-This repository contains the template to get started with [this tutorial](https://redi-school.github.io/ber-dcp-intro-to-computer-science/docs/web/html_css/).
+This repository contains the template to get started with [this tutorial](https://redi-school.github.io/ber-dcp-intro-to-computer-science-fall-21/docs/web/html_css/).
 
 There is a separate branch corresponding to each section of the tutorial.
 If at any point you get stuck, you can check out the code for that section. These are the branch names:
@@ -12,4 +12,3 @@ If at any point you get stuck, you can check out the code for that section. Thes
   4-about-section
   5-contact-section
 ```
-
